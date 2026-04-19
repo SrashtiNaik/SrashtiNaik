@@ -10,8 +10,11 @@ https://www.linkedin.com/in/srashti-naik-2528862bb
 
 # 💻 Skills:
 Programming: Python (Pandas, NumPy)
+
 Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning
+
 Database: SQL (PostgreSQL, MySQL, SQL Server)
+
 Visualization: Power BI
 
 # 📊 GitHub Stats:
